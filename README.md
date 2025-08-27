@@ -12,8 +12,6 @@ Setup your StarRocks development just in one docker container!
 - Use LLVM-15 to compile and link.
 - Built-in GDB, GDB Server module, support BE debug operation
 - Built-in tmux, mysql-client[TODO]
-- Support for both amd64 and arm64 architectures
-
 ## Usage
 
 1. Pull Docker image: `sudo docker pull crossoverjie/starrocks-docker-dev:latest` .
